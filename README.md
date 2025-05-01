@@ -17,3 +17,4 @@
 </div>
 
 ![Ahyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=say0317&show_icons=true&theme=rose)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=say0317)](https://github.com/say0317/github-readme-stats)

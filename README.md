@@ -16,6 +16,4 @@
   
 </div>
 
-[![Ahyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=say0317)](https://github.com/say0317/github-readme-stats)
-![Ahyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=say0317&show_icons=true)
 ![Ahyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=say0317&show_icons=true&theme=rose)

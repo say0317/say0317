@@ -22,7 +22,7 @@
 ![ij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-https://img.shields.io/github/last-commit/{username}/{repo-name}.svg
+![lc](https://img.shields.io/github/last-commit/{username}/{repo-name}.svg)
 
 ![Ahyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=say0317&show_icons=true&theme=rose)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=say0317)](https://github.com/say0317/github-readme-stats)
